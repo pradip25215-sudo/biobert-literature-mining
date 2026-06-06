@@ -2,7 +2,7 @@
 
 Mining biomedical literature from **PubMed** using **BioBERT** Named Entity Recognition (NER) to extract diseases, genes, and chemicals, then building a **co-occurrence knowledge graph** to surface the most connected biomedical concepts in chromatin / epigenetics / cancer research.
 
-> Author: **Pradip Palekar (MT25215)** — M.Tech Computational Biology, IIIT Delhi
+>  **Pradip Palekar (MT25215)** — M.Tech Computational Biology, IIIT Delhi
 
 ---
 
